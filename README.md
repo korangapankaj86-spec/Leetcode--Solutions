@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0014-longest-common-prefix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
