@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
