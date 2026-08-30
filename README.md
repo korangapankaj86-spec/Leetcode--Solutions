@@ -23,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
+| [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0014-longest-common-prefix) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
+| [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -71,4 +74,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
