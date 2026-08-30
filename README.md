@@ -30,6 +30,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
@@ -41,6 +42,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
