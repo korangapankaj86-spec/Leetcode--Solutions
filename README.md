@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
@@ -21,6 +22,7 @@
 | [0001-two-sum](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
