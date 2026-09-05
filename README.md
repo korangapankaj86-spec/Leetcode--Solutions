@@ -94,4 +94,12 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
