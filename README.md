@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
@@ -46,6 +47,7 @@
 | [0011-container-with-most-water](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
 ## Trie
 |  |
