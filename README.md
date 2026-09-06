@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | [0217-contains-duplicate](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## String
@@ -89,6 +91,7 @@
 | [0217-contains-duplicate](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Union-Find
 |  |
@@ -117,4 +121,20 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
