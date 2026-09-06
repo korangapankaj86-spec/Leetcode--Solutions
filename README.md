@@ -27,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -37,6 +38,7 @@
 | [0013-roman-to-integer](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
