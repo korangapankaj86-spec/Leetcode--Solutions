@@ -18,6 +18,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
