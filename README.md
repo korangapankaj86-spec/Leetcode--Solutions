@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -99,6 +100,7 @@
 | [0242-valid-anagram](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0506-relative-ranks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
