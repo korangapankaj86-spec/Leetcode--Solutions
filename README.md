@@ -39,6 +39,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -51,6 +52,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
@@ -59,6 +61,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Union-Find
 |  |
