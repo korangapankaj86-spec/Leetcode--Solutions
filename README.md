@@ -55,6 +55,7 @@
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
@@ -66,6 +67,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Two Pointers
 |  |
@@ -86,6 +88,7 @@
 | [0013-roman-to-integer](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Trie
 |  |
 | ------- |
