@@ -27,6 +27,7 @@
 | [0724-find-pivot-index](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2951-find-the-peaks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2951-find-the-peaks) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@
 | [0189-rotate-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Greedy
 |  |
 | ------- |
