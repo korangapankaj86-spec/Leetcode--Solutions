@@ -27,6 +27,7 @@
 | [0724-find-pivot-index](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2951-find-the-peaks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2951-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
