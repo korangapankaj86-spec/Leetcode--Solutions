@@ -29,6 +29,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2951-find-the-peaks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2951-find-the-peaks) |
+| [3917-count-indices-with-opposite-parity](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 ## Hash Table
 |  |
 | ------- |
