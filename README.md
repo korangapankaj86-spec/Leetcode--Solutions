@@ -56,6 +56,7 @@
 | [0242-valid-anagram](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -80,6 +81,7 @@
 | [0125-valid-palindrome](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Greedy
@@ -140,6 +142,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
@@ -216,4 +219,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0226-invert-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
