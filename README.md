@@ -62,6 +62,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3174-clear-digits](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/3174-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3174-clear-digits](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/3174-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -223,4 +225,5 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
