@@ -59,6 +59,7 @@
 | [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -85,6 +86,7 @@
 | [0283-move-zeroes](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Greedy
 |  |
@@ -146,6 +148,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/3174-clear-digits) |
 ## Linked List
