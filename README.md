@@ -232,4 +232,16 @@
 | [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/3174-clear-digits) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
