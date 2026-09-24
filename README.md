@@ -41,6 +41,7 @@
 | [0242-valid-anagram](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
@@ -54,6 +55,7 @@
 | [0014-longest-common-prefix](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Union-Find
@@ -239,6 +242,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
