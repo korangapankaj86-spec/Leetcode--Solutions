@@ -26,6 +26,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2951-find-the-peaks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2951-find-the-peaks) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0011-container-with-most-water) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Math
 |  |
 | ------- |
