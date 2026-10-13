@@ -154,6 +154,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -242,6 +243,7 @@
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -251,9 +253,14 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0933-number-of-recent-calls) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
