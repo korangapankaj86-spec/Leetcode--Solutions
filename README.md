@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -46,6 +47,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -157,6 +159,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -269,5 +272,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
