@@ -27,6 +27,7 @@
 | [0724-find-pivot-index](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2951-find-the-peaks](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2951-find-the-peaks) |
@@ -103,6 +104,7 @@
 | [0013-roman-to-integer](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Trie
 |  |
