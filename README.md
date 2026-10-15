@@ -64,6 +64,7 @@
 | [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1544-make-the-string-great) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -160,6 +161,7 @@
 | [0901-online-stock-span](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/3174-clear-digits) |
