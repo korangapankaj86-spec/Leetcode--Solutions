@@ -62,6 +62,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -157,6 +158,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0901-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
