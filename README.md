@@ -94,6 +94,7 @@
 | [0189-rotate-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/korangapankaj86-spec/Leetcode--Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
